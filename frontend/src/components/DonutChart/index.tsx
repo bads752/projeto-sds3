@@ -4,6 +4,10 @@ import { BASE_URL } from 'utils/requests'
 import { SaleSum } from 'types/Sale'
 import { useEffect, useState } from 'react'
 
+
+
+
+
 type ChartData = {
     labels: string[];
     series: number[];
